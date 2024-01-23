@@ -3,21 +3,25 @@ a:link {
   color: white;
   text-decoration: none;
 }
+
 /* visited link */
 a:visited {
   color: white;
   text-decoration: none;
 }
+
 /* mouse over link */ 
 a:hover {
   color: lightblue;
   text-decoration: none;
 }
+
 /* selected link */
 a:active {
   color: lightblue;
   text-decoration: none;
 }
+
 body {
   background: #000;
   color: #fff;
@@ -25,13 +29,20 @@ body {
   font-family: sans-serif;
   text-align: center;
 }
+
 #title {
   font-family: "Times New Roman", Times, serif;
   text-decoration: none;
 }
+
+.subtitle {
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: blink;
+}
 ul {
   list-style-type: none;
 }
+
 ul li {
   text-align: center;
 }
