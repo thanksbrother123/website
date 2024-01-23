@@ -37,9 +37,9 @@ body {
 
 .subtitle {
   font-family: "Times New Roman", Times, serif;
-  text-decoration: blink;
 }
 ul {
+  text-align: center;
   list-style-type: none;
 }
 
