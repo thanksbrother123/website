@@ -31,6 +31,7 @@ body {
 #interests {
   text-align: center;
 }
-li {
+ul li {
   text-align: center;
+  list-style-type: none;
 }
