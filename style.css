@@ -122,11 +122,11 @@ max-height: 50%
   }
 }
 .rotating {
-  -webkit-animation: rotating 60s linear infinite;
-  -moz-animation: rotating 60s linear infinite;
-  -ms-animation: rotating 60s linear infinite;
-  -o-animation: rotating 60s linear infinite;
-  animation: rotating 60s linear infinite;
+  -webkit-animation: rotating 120s linear infinite;
+  -moz-animation: rotating 120s linear infinite;
+  -ms-animation: rotating 120s linear infinite;
+  -o-animation: rotating 120s linear infinite;
+  animation: rotating 120s linear infinite;
 }
 
 #footer{
