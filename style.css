@@ -34,7 +34,7 @@ a:active {
   transition: all 500ms;
 }
 .hover-enlarge a:hover {
-  font-size: 44px;
+  font-size: 20px;
   font-size-adjust: 20px;
 }
 
