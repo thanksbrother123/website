@@ -138,11 +138,11 @@ max-height: 50%
   }
 }
 .rotating {
-  -webkit-animation: rotating 800s linear infinite;
-  -moz-animation: rotating 800s linear infinite;
-  -ms-animation: rotating 800s linear infinite;
-  -o-animation: rotating 800s linear infinite;
-  animation: rotating 800s linear infinite;
+  -webkit-animation: rotating 600s linear infinite;
+  -moz-animation: rotating 600s linear infinite;
+  -ms-animation: rotating 600s linear infinite;
+  -o-animation: rotating 600s linear infinite;
+  animation: rotating 600s linear infinite;
 }
 
 #footer {
