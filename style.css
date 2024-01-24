@@ -67,8 +67,12 @@ p {
   font-family: sans-serif;
 }
 
+.background {
+  background-color: #343d46
+}
+
 body {
-  background: #343d46;
+  background: #0;
   color: #fff;
   padding: 25px;
   font-family: sans-serif;
