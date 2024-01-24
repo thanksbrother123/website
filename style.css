@@ -138,11 +138,11 @@ max-height: 50%
   }
 }
 .rotating {
-  -webkit-animation: rotating 240s linear infinite;
-  -moz-animation: rotating 240s linear infinite;
-  -ms-animation: rotating 240s linear infinite;
-  -o-animation: rotating 240s linear infinite;
-  animation: rotating 240s linear infinite;
+  -webkit-animation: rotating 480s linear infinite;
+  -moz-animation: rotating 480s linear infinite;
+  -ms-animation: rotating 480s linear infinite;
+  -o-animation: rotating 480s linear infinite;
+  animation: rotating 480s linear infinite;
 }
 
 
