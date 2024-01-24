@@ -90,8 +90,8 @@ max-height: 50%
 }
 
 .flip-container:hover .flip-this {
-  transition: 10s;
-  transform: rotatez(1turn);
+  transition: 20s;
+  transform: rotatez(.5turn);
 }
 @-webkit-keyframes rotating /* Safari and Chrome */ {
   from {
