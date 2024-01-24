@@ -153,11 +153,11 @@ ul li {
 
 .world
 {
--webkit-animation: spin1 100s infinite linear;
--moz-animation: spin1 100s infinite linear;
--o-animation: spin1 100s infinite linear;
--ms-animation: spin1 100s infinite linear;
-animation: spin1 100s infinite linear;
+-webkit-animation: spin1 600s infinite linear;
+-moz-animation: spin1 600s infinite linear;
+-o-animation: spin1 600s infinite linear;
+-ms-animation: spin1 600s infinite linear;
+animation: spin1 600s infinite linear;
     display: block;
     text-alignment: center;
 }
