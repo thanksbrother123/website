@@ -23,17 +23,17 @@ a:active {
 }
 
 }
-#hover-enlarge {
+.hover-enlarge {
   margin-top: 100px;
   margin-bottom: 100px;
   color: rgba(1, 1, 1, 0.7);
 }
-#hover-enlarge a {
+.hover-enlarge a {
   font-weight: bold;
   font-size: 4em;
   transition: all 500ms;
 }
-#hover-enlarge a:hover {
+.hover-enlarge a:hover {
   font-size: 88px;
   font-size-adjust: 20px;
 }
