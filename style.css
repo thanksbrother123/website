@@ -79,12 +79,6 @@ ul li {
   text-align: center;
 }
 
-footer {
-  position: absolute;
-  bottom: 10px;
-  width: 10%;
-}
-
 .top {
   text-align: center;
 }
@@ -149,6 +143,12 @@ max-height: 50%
   -ms-animation: rotating 800s linear infinite;
   -o-animation: rotating 800s linear infinite;
   animation: rotating 800s linear infinite;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
 }
 
 
