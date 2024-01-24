@@ -145,10 +145,5 @@ max-height: 50%
   animation: rotating 600s linear infinite;
 }
 
-#footer {
-  position: absolute;
-  bottom: 0px;
-  width: 100%;
-}
 
 
