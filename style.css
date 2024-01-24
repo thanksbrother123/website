@@ -92,8 +92,8 @@ ul li {
 }
 
 .astronaut-img {
-  margin: 0;
   display: block;
+  text-align: center;
 }
 
 .flip-container {
