@@ -30,7 +30,7 @@ a:active {
 }
 .hover-enlarge a {
   font-weight: bold;
-  font-size: 4em;
+  font-size: 2em;
   transition: all 500ms;
 }
 .hover-enlarge a:hover {
