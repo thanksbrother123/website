@@ -91,6 +91,6 @@ max-height: 50%
 
 .flip-container:hover .flip-this {
   transition: 10s;
-  transform: rotatex(1turn);
+  transform: rotatez(1turn);
 }
 
