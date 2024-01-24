@@ -190,4 +190,7 @@ animation: spin1 600s infinite linear;
 .floatingleft {
   float: left;
 }
+.floatingright {
+  float: right;
+}
 
