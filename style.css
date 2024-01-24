@@ -30,11 +30,6 @@ body {
   text-align: center;
 }
 
-#title {
-  font-family: "Times New Roman", Times, serif;
-  text-decoration: none;
-}
-
 ul {
   text-align: center;
   list-style-type: none;
@@ -72,7 +67,7 @@ max-height: 50%
 
 .flip-container:hover .flip-this {
   transition: 10s;
-  transform: rotatex(10turn);
   transform: scale(0.4);
+  transform: rotatex(10turn);
 }
 
