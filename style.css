@@ -94,7 +94,8 @@ ul li {
 .astronaut-img {
   display: block;
   text-align: center;
-  margin: 0;
+  margin: 200px;
+  border: 1px solid #4CAF50;
 }
 
 .flip-container {
