@@ -91,7 +91,7 @@ max-height: 50%
 
 .flip-container:hover .flip-this {
   transition: 20s;
-  transform: rotatez(.5turn);
+  transform: rotatex(180deg);
 }
 @-webkit-keyframes rotating /* Safari and Chrome */ {
   from {
@@ -141,6 +141,6 @@ max-height: 50%
 #footer {
   position: absolute;
   bottom: 0;
-  width: 100%;
+  width: 40%;
   height: 2.5rem;            /* Footer height */
 }
