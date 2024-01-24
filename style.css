@@ -132,6 +132,7 @@ max-height: 50%
 #footer{
   position:fixed;
   height:10px;
-  width:50%;
+  width:10%;
+  text-align: center;
   z-index:1;
 }
