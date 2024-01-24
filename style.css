@@ -66,12 +66,12 @@ max-height: 50%
   position: relative;
   width: 100%;
   height: 100%;
-  transition: transform 10s;
+  transition: transform 5s;
   transform-style: preserve-3d;
 }
 
 .flip-container:hover .flip-this {
-  transition: 15s;
+  transition: 10s;
   transform: rotatex(10turn);
   transform: scale(0.4);
 }
