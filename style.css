@@ -94,3 +94,9 @@ max-height: 50%
   transform: rotatez(1turn);
 }
 
+#footer{
+  position:fixed;
+  height:50px;
+  width:100%;
+  z-index:1;
+}
