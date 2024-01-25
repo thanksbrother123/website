@@ -63,6 +63,15 @@ a:active {
   transform-origin: bottom left;
 }
 
+h1{
+  letter-spacing: 1px;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease; 
+  cursor: pointer
+}
+
 p {
   font-family: sans-serif;
 }
@@ -199,15 +208,6 @@ animation: spin1 600s infinite linear;
 0% { transform: rotate(0deg);}
 100% { transform: rotate(360deg);}
 } 
-
-h1{
-  letter-spacing: 1px;
-  -webkit-transition: all 1s ease;
-  -moz-transition: all 1s ease;
-  -o-transition: all 1s ease;
-  transition: all 1s ease; 
-  cursor: pointer
-}
 
 #c:hover {
   letter-spacing: 10px; 
