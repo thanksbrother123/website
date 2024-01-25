@@ -236,11 +236,13 @@ animation: spin1 600s infinite linear;
 }
 
 .floatleft {
-  float: left
+  float: left;
+  width: 100;
 }
 
 .floatright {
-  float: right
+  float: right;
+  width: 100%;
 }
 
 
