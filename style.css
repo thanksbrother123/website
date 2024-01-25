@@ -102,6 +102,11 @@ ul li {
   text-align: center;
 }
 
+.chunk-logo {
+  text-align: center;
+  width: 100px;
+  height: 100px;
+
 .flip-container {
   background: transparent;
   display: inline-block;
@@ -193,4 +198,5 @@ animation: spin1 600s infinite linear;
 .floatingright {
   float: right;
 }
+
 
