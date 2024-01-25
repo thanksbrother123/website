@@ -98,6 +98,10 @@ ul li {
   font-family: "Helvitica", sans-serif;
 }
 
+.icon {
+  width:200px;
+  height:200px;
+}
 .astronaut-img {
   text-align: center;
 }
