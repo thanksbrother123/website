@@ -218,7 +218,6 @@ animation: spin1 600s infinite linear;
 
 .hover-rotate {
   overflow: hidden;
-  margin: 8px;
   min-width: 240px;
   max-width: 320px;
   width: 100%;
@@ -226,7 +225,6 @@ animation: spin1 600s infinite linear;
 
 .hover-rotate img {
   transition: all 0.3s;
-  box-sizing: border-box;
   max-width: 100%;
 }
 
