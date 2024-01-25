@@ -99,9 +99,11 @@ ul li {
 }
 
 .music-icon {
+  float: right;
   display: inline-block;
-  width:200px;
-  height:200px;
+  margin:0px;
+  width: 200px;
+  height: 200px;
 }
 .astronaut-img {
   text-align: center;
