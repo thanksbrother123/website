@@ -100,10 +100,8 @@ ul li {
 
 .music-icon {
   float: right;
-  display: inline-block;
-  margin:0px;
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
 }
 .astronaut-img {
   text-align: center;
