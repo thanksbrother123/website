@@ -109,9 +109,16 @@ ul li {
 
 .music-icon {
   float: right;
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
 }
+
+.x-icon {
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
 .astronaut-img {
   text-align: center;
 }
