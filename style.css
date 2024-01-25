@@ -220,7 +220,6 @@ animation: spin1 600s infinite linear;
   min-width: 240px;
   max-width: 320px;
   width: 100%;
-  float: left;
 }
 
 .hover-rotate img {
@@ -232,19 +231,9 @@ animation: spin1 600s infinite linear;
   transform: scale(1.3) rotate(5deg);
 }
 
-#c:: {
-  text-align: center;
-}
-
 #c:hover {
   letter-spacing: 10px; 
 }
 
-.floatingleft {
-  float: left;
-}
-.floatingright {
-  float: right;
-}
 
 
