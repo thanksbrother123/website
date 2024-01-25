@@ -42,7 +42,7 @@ a:active {
 .hover-underline-animation {
   display: inline-block;
   position: relative;
-  color: #0087ca;
+  color: #ca0025;
 }
 
 .hover-underline-animation::after {
@@ -53,7 +53,7 @@ a:active {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #0087ca;
+  background-color: #ca0025;
   transform-origin: bottom right;
   transition: transform 0.25s ease-out;
 }
