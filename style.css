@@ -105,6 +105,7 @@ ul li {
 .chunk-logo {
   text-align: center;
   display: inline-block;
+  margin:0px;
   width: 200px;
   height: 200px;
 }
