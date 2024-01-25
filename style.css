@@ -216,10 +216,10 @@ animation: spin1 600s infinite linear;
 } 
 
 .hover-rotate {
-  overflow: hidden;
   min-width: 240px;
   max-width: 320px;
   width: 100%;
+  float: left;
 }
 
 .hover-rotate img {
