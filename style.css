@@ -232,7 +232,7 @@ animation: spin1 600s infinite linear;
   transform: scale(1.3) rotate(5deg);
 }
 
-#c:hover {
+.c:hover {
   letter-spacing: 10px; 
 }
 
