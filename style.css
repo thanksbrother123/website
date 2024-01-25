@@ -235,5 +235,13 @@ animation: spin1 600s infinite linear;
   letter-spacing: 10px; 
 }
 
+.floatleft {
+  float: left
+}
+
+.floatright {
+  float: right
+}
+
 
 
