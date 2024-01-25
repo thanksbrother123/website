@@ -200,6 +200,19 @@ animation: spin1 600s infinite linear;
 100% { transform: rotate(360deg);}
 } 
 
+h1{
+  letter-spacing: 1px;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease; 
+  cursor: pointer
+}
+
+#c:hover {
+  letter-spacing: 10px; 
+}
+
 .floatingleft {
   float: left;
 }
