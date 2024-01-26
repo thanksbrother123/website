@@ -63,7 +63,11 @@ a:active {
   transform-origin: bottom left;
 }
 
-h1{
+figure { 
+  text-align: center;
+}
+
+h1 {
   letter-spacing: 1px;
   -webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
