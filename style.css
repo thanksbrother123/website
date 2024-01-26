@@ -124,7 +124,8 @@ ul li {
 }
 
 .astronaut-img {
-  text-align: center;
+  margin: 0px;
+  position: relative;
 }
 
 .chunk-logo {
