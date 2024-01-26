@@ -83,6 +83,7 @@ ul li {
 }
 
 #center {
+  padding-left: 20px;
   margin:0px;
   position: relative;
 }
