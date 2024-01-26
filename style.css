@@ -46,10 +46,6 @@ a:active {
   transform-origin: bottom left;
 }
 
-figure { 
-  text-align: center;
-}
-
 h1 {
   letter-spacing: 1px;
   -webkit-transition: all 1s ease;
@@ -86,7 +82,7 @@ ul li {
   text-align: center;
 }
 
-.center {
+#center {
   margin:0px;
   position: relative;
 }
@@ -141,8 +137,4 @@ ul li {
 
 .hover-rotate:hover img {
   transform: scale(1.3) rotate(5deg);
-}
-
-#c:hover {
-  letter-spacing: 10px; 
 }
