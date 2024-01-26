@@ -86,6 +86,10 @@ ul li {
   text-align: center;
 }
 
+.center {
+  margin:0px;
+  position: relative;
+
 .top {
   text-align: center;
 }
@@ -96,7 +100,7 @@ ul li {
 
 .music-icon {
   margin:0px;
-  postion: relative;
+  position: relative;
   float: left;
   width: 100px;
   height: 100px;
@@ -104,7 +108,7 @@ ul li {
 
 .x-icon {
   margin:0px;
-  postion: relative;
+  position: relative;
   float: right;
   width: 50px;
   height: 50px;
