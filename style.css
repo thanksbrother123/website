@@ -173,4 +173,9 @@ ul li {
   -ms-animation: rotating 60s linear infinite;
   -o-animation: rotating 60s linear infinite;
   animation: rotating 60s linear infinite;
+  text-align: center;
+  display: inline-block;
+  margin:0px;
+  width: 200px;
+  height: 200px;
 }
