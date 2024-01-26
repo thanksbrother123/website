@@ -22,23 +22,6 @@ a:active {
   text-decoration: none;
 }
 
-#hover-enlarge {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    color: rgba(1,1,1,0.7);
-}
-
-#hover-enlarge a {
-    font-weight: bold;
-    font-size: 4em;
-    transition: all 500ms;
-}
-    
-#hover-enlarge a:hover {
-    font-size:88px;
-    font-size-adjust: 20px;
-}
-
 .hover-underline-animation {
   display: inline-block;
   position: relative;
@@ -112,12 +95,16 @@ ul li {
 }
 
 .music-icon {
+  margin:0px;
+  postion: relative;
   float: left;
   width: 100px;
   height: 100px;
 }
 
 .x-icon {
+  margin:0px;
+  postion: relative;
   float: right;
   width: 50px;
   height: 50px;
@@ -154,16 +141,3 @@ ul li {
 #c:hover {
   letter-spacing: 10px; 
 }
-
-.floatleft {
-  float: left;
-  width: 100;
-}
-
-.floatright {
-  float: right;
-  width: 100%;
-}
-
-
-
